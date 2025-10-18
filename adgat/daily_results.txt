@@ -1,0 +1,356 @@
+Day 1:
+  Daily Return: 10225285.890032059
+  Daily Sharpe Ratio: nan
+
+Day 2:
+  Daily Return: 10080139.17894903
+  Daily Sharpe Ratio: 1.0819123768588181
+
+Day 3:
+  Daily Return: 9673207.649833139
+  Daily Sharpe Ratio: -0.4961496459997101
+
+Day 4:
+  Daily Return: 8337284.511626144
+  Daily Sharpe Ratio: 0.49023009706282045
+
+Day 5:
+  Daily Return: 7926923.990040999
+  Daily Sharpe Ratio: -0.2039278285972351
+
+Day 6:
+  Daily Return: 7883049.147474914
+  Daily Sharpe Ratio: 0.6707226758400975
+
+Day 7:
+  Daily Return: 8011746.480448009
+  Daily Sharpe Ratio: -0.2938652843409476
+
+Day 8:
+  Daily Return: 8456510.302166628
+  Daily Sharpe Ratio: 0.24062126224971983
+
+Day 9:
+  Daily Return: 7147036.358922445
+  Daily Sharpe Ratio: -0.49939750573599645
+
+Day 10:
+  Daily Return: 9371783.727578908
+  Daily Sharpe Ratio: -0.18507081745907258
+
+Day 11:
+  Daily Return: 8135982.951960456
+  Daily Sharpe Ratio: -0.38599976914428424
+
+Day 12:
+  Daily Return: 8336618.190687147
+  Daily Sharpe Ratio: 0.15495853243182403
+
+Day 13:
+  Daily Return: 10329479.389160994
+  Daily Sharpe Ratio: 0.05090529052545052
+
+Day 14:
+  Daily Return: 9583339.396975309
+  Daily Sharpe Ratio: 0.03033569954922885
+
+Day 15:
+  Daily Return: 9228892.547127225
+  Daily Sharpe Ratio: 0.10097098471361218
+
+Day 16:
+  Daily Return: 9725812.75761325
+  Daily Sharpe Ratio: -0.3969788832109475
+
+Day 17:
+  Daily Return: 8649972.548533425
+  Daily Sharpe Ratio: -0.1320415069741291
+
+Day 18:
+  Daily Return: 9806169.1339466
+  Daily Sharpe Ratio: -0.35957114758730524
+
+Day 19:
+  Daily Return: 7185159.769318966
+  Daily Sharpe Ratio: -0.18290906509987712
+
+Day 20:
+  Daily Return: 8614724.72637879
+  Daily Sharpe Ratio: -0.019272440489673262
+
+Day 21:
+  Daily Return: 9934583.812965706
+  Daily Sharpe Ratio: -0.24285588422258392
+
+Day 22:
+  Daily Return: 10038572.175986141
+  Daily Sharpe Ratio: -0.19019361954421238
+
+Day 23:
+  Daily Return: 6905637.048098151
+  Daily Sharpe Ratio: 0.03995108011992344
+
+Day 24:
+  Daily Return: 7852525.902614364
+  Daily Sharpe Ratio: 0.025592554784412528
+
+Day 25:
+  Daily Return: 7659338.744084876
+  Daily Sharpe Ratio: 0.24123388704961918
+
+Day 26:
+  Daily Return: 11864395.045107357
+  Daily Sharpe Ratio: 0.21762666490567914
+
+Day 27:
+  Daily Return: 10037241.807842894
+  Daily Sharpe Ratio: -0.6905511762044686
+
+Day 28:
+  Daily Return: 6918627.257700204
+  Daily Sharpe Ratio: -0.12867363618919717
+
+Day 29:
+  Daily Return: 8812172.93355332
+  Daily Sharpe Ratio: 0.5737587874760243
+
+Day 30:
+  Daily Return: 8661936.00168731
+  Daily Sharpe Ratio: 0.18433340016012092
+
+Day 31:
+  Daily Return: 10505775.532210065
+  Daily Sharpe Ratio: 1.0302141460043777
+
+Day 32:
+  Daily Return: 9821205.762761893
+  Daily Sharpe Ratio: -0.49406785411333975
+
+Day 33:
+  Daily Return: 12452922.050300755
+  Daily Sharpe Ratio: -0.33255243384787886
+
+Day 34:
+  Daily Return: 13123330.730724357
+  Daily Sharpe Ratio: -0.10510535706408589
+
+Day 35:
+  Daily Return: 10109448.1209948
+  Daily Sharpe Ratio: -0.20381017665406193
+
+Day 36:
+  Daily Return: 10296616.038691016
+  Daily Sharpe Ratio: -0.5375376298028306
+
+Day 37:
+  Daily Return: 8379879.606494591
+  Daily Sharpe Ratio: -0.1302746516257425
+
+Day 38:
+  Daily Return: 7946602.412754878
+  Daily Sharpe Ratio: 0.16620048983130167
+
+Day 39:
+  Daily Return: 6400677.354900783
+  Daily Sharpe Ratio: -0.4888716365968719
+
+Day 40:
+  Daily Return: 10168189.601257406
+  Daily Sharpe Ratio: 0.4094777634326618
+
+Day 41:
+  Daily Return: 8752559.24714832
+  Daily Sharpe Ratio: 0.19684049584116328
+
+Day 42:
+  Daily Return: 8731892.581278443
+  Daily Sharpe Ratio: 0.07617513746149623
+
+Day 43:
+  Daily Return: 10486098.68453381
+  Daily Sharpe Ratio: 0.9771101080848821
+
+Day 44:
+  Daily Return: 11063997.99830571
+  Daily Sharpe Ratio: -0.7031931264497021
+
+Day 45:
+  Daily Return: 9029350.766447846
+  Daily Sharpe Ratio: 0.4383808033014441
+
+Day 46:
+  Daily Return: 10621583.782289114
+  Daily Sharpe Ratio: 0.3421328438247968
+
+Day 47:
+  Daily Return: 8785400.954909226
+  Daily Sharpe Ratio: 0.05906029506180637
+
+Day 48:
+  Daily Return: 10088348.42175934
+  Daily Sharpe Ratio: 0.16720028707332923
+
+Day 49:
+  Daily Return: 8482216.049332773
+  Daily Sharpe Ratio: -0.30980624678478325
+
+Day 50:
+  Daily Return: 6317065.237882832
+  Daily Sharpe Ratio: 1.0577052430777854
+
+Day 51:
+  Daily Return: 8482641.04669596
+  Daily Sharpe Ratio: 0.9166228528387108
+
+Day 52:
+  Daily Return: 11877084.521751871
+  Daily Sharpe Ratio: 0.15468487527272065
+
+Day 53:
+  Daily Return: 4966754.3246289175
+  Daily Sharpe Ratio: -0.02344131924238645
+
+Day 54:
+  Daily Return: 8249526.483514049
+  Daily Sharpe Ratio: 0.10322432814160887
+
+Day 55:
+  Daily Return: 10275241.024061646
+  Daily Sharpe Ratio: 0.0019590968241018068
+
+Day 56:
+  Daily Return: 11431159.961505337
+  Daily Sharpe Ratio: 0.49094162183102436
+
+Day 57:
+  Daily Return: 11355137.814246612
+  Daily Sharpe Ratio: -0.049535711767282845
+
+Day 58:
+  Daily Return: 9378194.554888407
+  Daily Sharpe Ratio: -0.6699894536789953
+
+Day 59:
+  Daily Return: 10154852.11021491
+  Daily Sharpe Ratio: -0.2548930378726923
+
+Day 60:
+  Daily Return: 11872245.062421294
+  Daily Sharpe Ratio: -0.6645875994809275
+
+Day 61:
+  Daily Return: 9179987.284779966
+  Daily Sharpe Ratio: 0.35052019924100003
+
+Day 62:
+  Daily Return: 11675324.039491732
+  Daily Sharpe Ratio: -0.45672708476579843
+
+Day 63:
+  Daily Return: 7441129.3302184865
+  Daily Sharpe Ratio: -0.18055932204335526
+
+Day 64:
+  Daily Return: 10586695.910797214
+  Daily Sharpe Ratio: -0.1717077041153355
+
+Day 65:
+  Daily Return: 8937539.302600652
+  Daily Sharpe Ratio: 0.18493672318529905
+
+Day 66:
+  Daily Return: 5811795.469293333
+  Daily Sharpe Ratio: 0.02789647102979016
+
+Day 67:
+  Daily Return: 8414842.319808831
+  Daily Sharpe Ratio: -0.6550816409147147
+
+Day 68:
+  Daily Return: 10794360.840580232
+  Daily Sharpe Ratio: 0.521854408009271
+
+Day 69:
+  Daily Return: 10243569.08398004
+  Daily Sharpe Ratio: 0.2796147336443045
+
+Day 70:
+  Daily Return: 9788052.043935442
+  Daily Sharpe Ratio: -0.18311589867187
+
+Day 71:
+  Daily Return: 10513725.107664643
+  Daily Sharpe Ratio: 0.853939392897359
+
+Day 72:
+  Daily Return: 10043539.971547777
+  Daily Sharpe Ratio: -0.7794155066841261
+
+Day 73:
+  Daily Return: 9152355.901551997
+  Daily Sharpe Ratio: -0.7118738351760999
+
+Day 74:
+  Daily Return: 9285263.09143551
+  Daily Sharpe Ratio: -0.02829285575316018
+
+Day 75:
+  Daily Return: 9880402.33109032
+  Daily Sharpe Ratio: 0.1750808903234127
+
+Day 76:
+  Daily Return: 8926163.188305425
+  Daily Sharpe Ratio: -0.5742420981996584
+
+Day 77:
+  Daily Return: 8178864.0028803265
+  Daily Sharpe Ratio: -0.6435269742156627
+
+Day 78:
+  Daily Return: 9292180.509603571
+  Daily Sharpe Ratio: -0.10641861264509281
+
+Day 79:
+  Daily Return: 10142535.89069374
+  Daily Sharpe Ratio: 0.377473336400553
+
+Day 80:
+  Daily Return: 8795839.256005282
+  Daily Sharpe Ratio: 0.4804864319565782
+
+Day 81:
+  Daily Return: 8042654.380538579
+  Daily Sharpe Ratio: 0.17329924324063067
+
+Day 82:
+  Daily Return: 10636756.802416343
+  Daily Sharpe Ratio: -0.2587956399469694
+
+Day 83:
+  Daily Return: 8472042.362757532
+  Daily Sharpe Ratio: -0.36530240412872395
+
+Day 84:
+  Daily Return: 9765313.198489584
+  Daily Sharpe Ratio: 0.34208143784478423
+
+Day 85:
+  Daily Return: 9765891.423663119
+  Daily Sharpe Ratio: -0.8924968843286007
+
+Day 86:
+  Daily Return: 9457273.287906885
+  Daily Sharpe Ratio: 0.022207181843955596
+
+Day 87:
+  Daily Return: 8695004.737196185
+  Daily Sharpe Ratio: 0.3201419212151352
+
+Day 88:
+  Daily Return: 9013061.741535246
+  Daily Sharpe Ratio: 0.07269535663396912
+
+Day 89:
+  Daily Return: 8031903.002500337
+  Daily Sharpe Ratio: -0.00532249980258075
+
